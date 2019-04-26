@@ -1,4 +1,8 @@
 # system
+
+自动结束进程工具。
+
+ntsd.exe 的说明-->
 系统程序
 https://www.felix021.com/blog/read.php?1983
 
